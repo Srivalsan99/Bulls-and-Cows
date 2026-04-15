@@ -1,0 +1,68 @@
+Bulls & Cows game result
+Generated: 2025-12-19 12:35:09
+
+Player Type Info:
+ 1 or EasyBot
+ 2 or MediumBot
+ 3 or HardBot
+ 4 or Human
+ 5 or File Player
+
+----------------------------
+Player 1: john (1) - Secret: 1478
+Player 2: hard (3) - Secret: 8467
+Player 3: valsan (4) - Secret: 4578
+---
+
+--- Turn 1:
+john guessed 7158, scoring 0 bulls and 2 cows
+hard guessed 1495, scoring 2 bulls and 0 cows
+valsan guessed 8901, scoring 0 bulls and 2 cows
+
+--- Turn 2:
+john guessed 5713, scoring 0 bulls and 1 cow
+hard guessed 1420, scoring 2 bulls and 0 cows
+valsan guessed 8901, scoring 1 bull and 0 cows
+
+--- Turn 3:
+john guessed 8952, scoring 1 bull and 0 cows
+hard guessed 1486, scoring 2 bulls and 1 cow
+valsan guessed 9065, scoring 0 bulls and 0 cows
+
+--- Turn 4:
+john guessed 3825, scoring 0 bulls and 1 cow
+hard guessed 1464, scoring 2 bulls and 1 cow
+valsan guessed 9065, scoring 1 bull and 0 cows
+
+--- Turn 5:
+john guessed 9427, scoring 2 bulls and 0 cows
+hard guessed 1438, scoring 3 bulls and 0 cows
+valsan guessed 8976, scoring 1 bull and 1 cow
+
+--- Turn 6:
+john guessed 5148, scoring 0 bulls and 2 cows
+hard guessed 1418, scoring 3 bulls and 1 cow
+valsan guessed 8976, scoring 1 bull and 2 cows
+
+--- Turn 7:
+john guessed 9013, scoring 0 bulls and 0 cows
+hard guessed 1478, scoring 4 bulls and 0 cows
+valsan guessed 7863, scoring 0 bulls and 2 cows
+
+--- Turn 8:
+valsan guessed 7863, scoring 1 bull and 2 cows
+
+--- Turn 9:
+valsan guessed 1236, scoring 1 bull and 0 cows
+
+--- Turn 10:
+valsan guessed 1236, scoring 0 bulls and 1 cow
+
+--- Turn 11:
+valsan guessed 6780, scoring 0 bulls and 2 cows
+
+--- Turn 12:
+valsan guessed 6780, scoring 0 bulls and 3 cows
+
+
+hard wins! :)

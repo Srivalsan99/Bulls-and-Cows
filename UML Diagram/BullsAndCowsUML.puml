@@ -1,0 +1,88 @@
+@startuml GameComposition
+!define RECTANGLE class
+
+
+class Game {
+  - scanner : Scanner
+  - gameUtils : GameUtils
+  + start(): void
+}
+
+class GameUtils {
+  - playerInfo : List<List<String>>
+  - playerHistory : List<List<List<String>>>
+  - players : Players[]
+  - scanner : Scanner
+  + setPlayerInfo()
+  + playerSecretNumberInput()
+  + guessArena(count : int) : boolean
+  + saveGameToFile()
+  + getPlayerInfo() : List<List<String>>
+  + getGameHistory() : List<List<List<String>>>
+}
+
+abstract class Players {
+    # secretCodeValue : String
+    # generatedValue : String
+    + getSecretCodeValue() : String {abstract}
+    + setSecretCodeValue() {abstract}
+    + getGuessCodeValue() : String {abstract}
+    + setGuessCodeValue()
+  }
+  
+  class EasyBot {
+
+  }
+  
+  class Human {
+    - scanner : Scanner
+    - UNIQUE_4_DIGIT_REGEX : String
+    - readValidCode(prompt) : String
+  }
+  
+  abstract class Computer {
+    + randomGenerator() : String
+  }
+  
+    class MediumBot {
+    # previousGuessList : Set<String>
+    + setGuessCodeValue(history, player)
+  }
+  
+  class HardBot {
+    - possibleCodes : List<String>
+    - consistentCodes : List<String>
+    + setGuessCodeValue(history, player)
+    - initializePossibleCodes()
+    - pruneConsistentCodes(history, player)
+    - computeBullsCows(guess, candidate) : int[]
+  }
+  
+    class FilePlayer {
+    - easybot : EasyBot
+    - scanner : Scanner
+    - guessList : List<String>
+    + setGuessCodeValue(count : int)
+    - loadFile()
+  }
+  
+Players <|-- Computer 
+Computer <|-- EasyBot 
+EasyBot <|-- MediumBot 
+MediumBot <|-- HardBot 
+Players <|-- Human 
+Players <|-- FilePlayer 
+
+FilePlayer *--  EasyBot
+  
+
+Game *--  GameUtils 
+GameUtils *--  Players 
+
+
+note right of Game
+  Note:
+  This Class is kept only for running the overall code, and also to keep GameUtils class more cleaner.
+end note
+
+@enduml

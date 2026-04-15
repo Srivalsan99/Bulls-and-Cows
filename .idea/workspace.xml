@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63c05e0d-7249-450f-b4fd-0fecacbae7f3" name="Changes" comment="Final Completion submission of Industry Project A, for recieveing user input for saving the text file name.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="36r0Ysa80SbiaaSjYAI13N0j4qT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.industry-project-a [:Game.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.industry-project-a [:GameUtils.main()].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/waikato/industry-project-a&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\waikato\industry-project-a" />
+      <recent name="D:\waikato\industry-project-a\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Game">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game" />
+      <module name="bulls.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameUtils" />
+      <module name="bulls.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+        <item itemvalue="Application.GameUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63c05e0d-7249-450f-b4fd-0fecacbae7f3" name="Changes" comment="" />
+      <created>1765749433319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765749433319</updated>
+      <workItem from="1765749434918" duration="14501000" />
+      <workItem from="1766029498202" duration="352000" />
+      <workItem from="1766032069840" duration="10989000" />
+      <workItem from="1766051444000" duration="6225000" />
+      <workItem from="1766087397326" duration="10345000" />
+      <workItem from="1766103859699" duration="91000" />
+    </task>
+    <task id="LOCAL-00001" summary="Now It is used with Gradle, for able to run it with IntelIJ">
+      <option name="closed" value="true" />
+      <created>1765749846754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765749846754</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Now It is used with Gradle, for able to run it with IntelIJ">
+      <option name="closed" value="true" />
+      <created>1765749874912</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1765749874912</updated>
+    </task>
+    <task id="LOCAL-00003" summary="This commit is for optimising the overall classes">
+      <option name="closed" value="true" />
+      <created>1765782581391</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765782581391</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Few Minor Glitches and bugs are fixed now">
+      <option name="closed" value="true" />
+      <created>1765787765241</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1765787765241</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Bug Fixes in Hard bot for not filtering duplicate values properly">
+      <option name="closed" value="true" />
+      <created>1766038205673</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1766038205673</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Game Utils code is now optimised by reducing many loops and converting if to switch statements.">
+      <option name="closed" value="true" />
+      <created>1766038478280</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1766038478280</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Game Utils code is now optimised by reducing many loops and converting if to switch statements.">
+      <option name="closed" value="true" />
+      <created>1766038668620</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1766038668620</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Now In this latest commit, now I have updated the fileOutput output, where we can we can fetch the player history game results.">
+      <option name="closed" value="true" />
+      <created>1766057649442</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1766057649442</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Final Completion submission of Industry Project A, for recieveing user input for saving the text file name.">
+      <option name="closed" value="true" />
+      <created>1766102826569</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1766102826569</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Now It is used with Gradle, for able to run it with IntelIJ" />
+    <MESSAGE value="This commit is for optimising the overall classes" />
+    <MESSAGE value="Few Minor Glitches and bugs are fixed now" />
+    <MESSAGE value="Bug Fixes in Hard bot for not filtering duplicate values properly" />
+    <MESSAGE value="Game Utils code is now optimised by reducing many loops and converting if to switch statements." />
+    <MESSAGE value="Now In this latest commit, now I have updated the fileOutput output, where we can we can fetch the player history game results." />
+    <MESSAGE value="Final Completion submission of Industry Project A, for recieveing user input for saving the text file name." />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Completion submission of Industry Project A, for recieveing user input for saving the text file name." />
+  </component>
+</project>
