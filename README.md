@@ -19,6 +19,9 @@ UML class diagram included
 Technologies
 
 Java 17
+
 Object-Oriented Programming (OOP)
+
 File I/O
+
 Console-based user interface
