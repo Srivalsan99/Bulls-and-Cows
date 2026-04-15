@@ -16,12 +16,8 @@ Game results saved to a text file upon completion
 Clean object-oriented design with inheritance and multiple classes
 UML class diagram included
 
-$ Technologies
-
+# Technologies
 Java 17
-
 Object-Oriented Programming (OOP)
-
 File I/O
-
 Console-based user interface
